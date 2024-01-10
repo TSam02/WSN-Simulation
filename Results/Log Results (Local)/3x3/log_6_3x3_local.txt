@@ -1,0 +1,177 @@
+[ITERATION 0]
+Timestamp: 18/10/2023 02:22:02
+Available Ports: 3
+Condition: NOT FULL
+
+[ITERATION 1]
+Timestamp: 18/10/2023 02:22:07
+Available Ports: 3
+Condition: NOT FULL
+
+[ITERATION 2]
+Timestamp: 18/10/2023 02:22:12
+Available Ports: 3
+Condition: NOT FULL
+
+[ITERATION 3]
+Timestamp: 18/10/2023 02:22:17
+Available Ports: 2
+Condition: ALERT BASE STATION
+Solution: NO neighbour or nearby nodes available! Please wait for a while.
+
+[ITERATION 4]
+Timestamp: 18/10/2023 02:22:22
+Available Ports: 3
+Condition: NOT FULL
+
+[ITERATION 5]
+Timestamp: 18/10/2023 02:22:27
+Available Ports: 1
+Condition: ALERT BASE STATION
+Solution: Nearby Nodes Found! Please proceed to Node { 0,4 }
+
+[ITERATION 6]
+Timestamp: 18/10/2023 02:22:32
+Available Ports: 3
+Condition: NOT FULL
+
+[ITERATION 7]
+Timestamp: 18/10/2023 02:22:37
+Available Ports: 3
+Condition: NOT FULL
+
+[ITERATION 8]
+Timestamp: 18/10/2023 02:22:42
+Available Ports: 3
+Condition: NOT FULL
+
+[ITERATION 9]
+Timestamp: 18/10/2023 02:22:47
+Available Ports: 3
+Condition: NOT FULL
+
+[ITERATION 10]
+Timestamp: 18/10/2023 02:22:52
+Available Ports: 1
+Condition: ALERT BASE STATION
+Solution: NO neighbour or nearby nodes available! Please wait for a while.
+
+[ITERATION 11]
+Timestamp: 18/10/2023 02:22:57
+Available Ports: 3
+Condition: NOT FULL
+
+[ITERATION 12]
+Timestamp: 18/10/2023 02:23:02
+Available Ports: 4
+Condition: NOT FULL
+
+[ITERATION 13]
+Timestamp: 18/10/2023 02:23:07
+Available Ports: 3
+Condition: NOT FULL
+
+[ITERATION 14]
+Timestamp: 18/10/2023 02:23:12
+Available Ports: 1
+Condition: FULL with Available Neighbour Nodes
+Solution: Proceed to Node { 7 }
+
+[ITERATION 15]
+Timestamp: 18/10/2023 02:23:17
+Available Ports: 3
+Condition: NOT FULL
+
+[ITERATION 16]
+Timestamp: 18/10/2023 02:23:22
+Available Ports: 1
+Condition: ALERT BASE STATION
+Solution: Nearby Nodes Found! Please proceed to Node { 0,4,8 }
+
+[ITERATION 17]
+Timestamp: 18/10/2023 02:23:27
+Available Ports: 2
+Condition: FULL with Available Neighbour Nodes
+Solution: Proceed to Node { 7 }
+
+[ITERATION 18]
+Timestamp: 18/10/2023 02:23:32
+Available Ports: 1
+Condition: FULL with Available Neighbour Nodes
+Solution: Proceed to Node { 3 }
+
+[ITERATION 19]
+Timestamp: 18/10/2023 02:23:37
+Available Ports: 4
+Condition: NOT FULL
+
+[ITERATION 20]
+Timestamp: 18/10/2023 02:23:42
+Available Ports: 3
+Condition: NOT FULL
+
+[ITERATION 21]
+Timestamp: 18/10/2023 02:23:47
+Available Ports: 2
+Condition: FULL with Available Neighbour Nodes
+Solution: Proceed to Node { 7 }
+
+[ITERATION 22]
+Timestamp: 18/10/2023 02:23:52
+Available Ports: 3
+Condition: NOT FULL
+
+[ITERATION 23]
+Timestamp: 18/10/2023 02:23:57
+Available Ports: 1
+Condition: ALERT BASE STATION
+Solution: Nearby Nodes Found! Please proceed to Node { 4,8 }
+
+[ITERATION 24]
+Timestamp: 18/10/2023 02:24:02
+Available Ports: 4
+Condition: NOT FULL
+
+[ITERATION 25]
+Timestamp: 18/10/2023 02:24:07
+Available Ports: 1
+Condition: FULL with Available Neighbour Nodes
+Solution: Proceed to Node { 7 }
+
+[ITERATION 26]
+Timestamp: 18/10/2023 02:24:12
+Available Ports: 4
+Condition: NOT FULL
+
+[ITERATION 27]
+Timestamp: 18/10/2023 02:24:17
+Available Ports: 1
+Condition: ALERT BASE STATION
+Solution: NO neighbour or nearby nodes available! Please wait for a while.
+
+[ITERATION 28]
+Timestamp: 18/10/2023 02:24:22
+Available Ports: 2
+Condition: ALERT BASE STATION
+Solution: Nearby Nodes Found! Please proceed to Node { 4,8 }
+
+[ITERATION 29]
+Timestamp: 18/10/2023 02:24:27
+Available Ports: 1
+Condition: FULL with Available Neighbour Nodes
+Solution: Proceed to Node { 3,7 }
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+SIMULATION SUMMARY
+
+Number of Iteration with available ports:                        17                  
+Number of Iteration with full ports (available neighbours):      6                   
+Number of Iteration with full ports (alert):                     7                   
+Average communication time with neighbour nodes (seconds):       0.001021            
+Average communication time with base staiton (seconds):          0.000247            
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

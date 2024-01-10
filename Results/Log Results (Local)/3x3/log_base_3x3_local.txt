@@ -1,0 +1,1621 @@
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 0
+Logged time :                      18/10/2023 02:22:02      
+Alert Reported time :              18/10/2023 02:22:02      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+2                   (0, 2)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              1                   172.17.0.2       
+5                   (1, 2)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+0                   (0, 0)       
+8                   (2, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.015435
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 0
+Logged time :                      18/10/2023 02:22:02      
+Alert Reported time :              18/10/2023 02:22:02      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+2                   (0, 2)       5              1                   172.17.0.2       
+4                   (1, 1)       5              1                   172.17.0.2       
+0                   (0, 0)       5              0                   172.17.0.2       
+
+Nearby Nodes        Coord        
+5                   (1, 2)       
+7                   (2, 1)       
+3                   (1, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 7, 3
+Communication Time (seconds) : 0.005748
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 0
+Logged time :                      18/10/2023 02:22:02      
+Alert Reported time :              18/10/2023 02:22:02      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+5                   (1, 2)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+2                   (0, 2)       5              1                   172.17.0.2       
+4                   (1, 1)       5              1                   172.17.0.2       
+8                   (2, 2)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+1                   (0, 1)       
+7                   (2, 1)       
+3                   (1, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 7, 3
+Communication Time (seconds) : 0.001209
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 0
+Logged time :                      18/10/2023 02:22:02      
+Alert Reported time :              18/10/2023 02:22:02      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+8                   (2, 2)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+5                   (1, 2)       5              1                   172.17.0.2       
+7                   (2, 1)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+2                   (0, 2)       
+4                   (1, 1)       
+6                   (2, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 4, 6
+Communication Time (seconds) : 0.013219
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 1
+Logged time :                      18/10/2023 02:22:07      
+Alert Reported time :              18/10/2023 02:22:07      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              0                   172.17.0.2       
+4                   (1, 1)       5              1                   172.17.0.2       
+2                   (0, 2)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+3                   (1, 0)       
+7                   (2, 1)       
+5                   (1, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 3, 7
+Communication Time (seconds) : 0.000001
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 1
+Logged time :                      18/10/2023 02:22:07      
+Alert Reported time :              18/10/2023 02:22:07      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+2                   (0, 2)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              1                   172.17.0.2       
+5                   (1, 2)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+0                   (0, 0)       
+8                   (2, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.000005
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 1
+Logged time :                      18/10/2023 02:22:07      
+Alert Reported time :              18/10/2023 02:22:07      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+5                   (1, 2)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+8                   (2, 2)       5              2                   172.17.0.2       
+4                   (1, 1)       5              1                   172.17.0.2       
+2                   (0, 2)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+7                   (2, 1)       
+1                   (0, 1)       
+3                   (1, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 7, 3
+Communication Time (seconds) : 0.000003
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 1
+Logged time :                      18/10/2023 02:22:07      
+Alert Reported time :              18/10/2023 02:22:07      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+8                   (2, 2)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+7                   (2, 1)       5              2                   172.17.0.2       
+5                   (1, 2)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+6                   (2, 0)       
+2                   (0, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 4, 6
+Communication Time (seconds) : 0.000000
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 2
+Logged time :                      18/10/2023 02:22:12      
+Alert Reported time :              18/10/2023 02:22:12      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+2                   (0, 2)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              2                   172.17.0.2       
+5                   (1, 2)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+0                   (0, 0)       
+8                   (2, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 4, 8
+Communication Time (seconds) : 0.000028
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 2
+Logged time :                      18/10/2023 02:22:12      
+Alert Reported time :              18/10/2023 02:22:12      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              0                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              2                   172.17.0.2       
+3                   (1, 0)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+2                   (0, 2)       
+6                   (2, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 4, 6
+Communication Time (seconds) : 0.000028
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time :                      18/10/2023 02:22:17      
+Alert Reported time :              18/10/2023 02:22:17      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+5                   (1, 2)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+2                   (0, 2)       5              1                   172.17.0.2       
+8                   (2, 2)       5              2                   172.17.0.2       
+4                   (1, 1)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+1                   (0, 1)       
+7                   (2, 1)       
+3                   (1, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 7
+Communication Time (seconds) : 0.000000
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time :                      18/10/2023 02:22:17      
+Alert Reported time :              18/10/2023 02:22:17      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+2                   (0, 2)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              2                   172.17.0.2       
+5                   (1, 2)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+0                   (0, 0)       
+8                   (2, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.000001
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time :                      18/10/2023 02:22:17      
+Alert Reported time :              18/10/2023 02:22:17      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+3                   (1, 0)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+4                   (1, 1)       5              1                   172.17.0.2       
+0                   (0, 0)       5              0                   172.17.0.2       
+6                   (2, 0)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+1                   (0, 1)       
+7                   (2, 1)       
+5                   (1, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.000003
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time :                      18/10/2023 02:22:17      
+Alert Reported time :              18/10/2023 02:22:17      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              0                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+3                   (1, 0)       5              1                   172.17.0.2       
+1                   (0, 1)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+6                   (2, 0)       
+4                   (1, 1)       
+2                   (0, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.000038
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time :                      18/10/2023 02:22:17      
+Alert Reported time :              18/10/2023 02:22:17      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+4                   (1, 1)       5              1                   172.17.0.2       
+2                   (0, 2)       5              1                   172.17.0.2       
+0                   (0, 0)       5              0                   172.17.0.2       
+
+Nearby Nodes        Coord        
+7                   (2, 1)       
+3                   (1, 0)       
+5                   (1, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.000003
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time :                      18/10/2023 02:22:17      
+Alert Reported time :              18/10/2023 02:22:17      
+Number of adjacent node: 4
+Number of nearby node: 4
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+4                   (1, 1)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+5                   (1, 2)       5              2                   172.17.0.2       
+3                   (1, 0)       5              1                   172.17.0.2       
+1                   (0, 1)       5              2                   172.17.0.2       
+7                   (2, 1)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+2                   (0, 2)       
+8                   (2, 2)       
+0                   (0, 0)       
+6                   (2, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.000004
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time :                      18/10/2023 02:22:17      
+Alert Reported time :              18/10/2023 02:22:17      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+6                   (2, 0)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+3                   (1, 0)       5              1                   172.17.0.2       
+7                   (2, 1)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+0                   (0, 0)       
+4                   (1, 1)       
+8                   (2, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.000003
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time :                      18/10/2023 02:22:17      
+Alert Reported time :              18/10/2023 02:22:17      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+8                   (2, 2)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+5                   (1, 2)       5              2                   172.17.0.2       
+7                   (2, 1)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+2                   (0, 2)       
+4                   (1, 1)       
+6                   (2, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.000039
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged time :                      18/10/2023 02:22:17      
+Alert Reported time :              18/10/2023 02:22:17      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+7                   (2, 1)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+8                   (2, 2)       5              2                   172.17.0.2       
+6                   (2, 0)       5              2                   172.17.0.2       
+4                   (1, 1)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+5                   (1, 2)       
+3                   (1, 0)       
+1                   (0, 1)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.000001
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 5
+Logged time :                      18/10/2023 02:22:27      
+Alert Reported time :              18/10/2023 02:22:27      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+8                   (2, 2)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+7                   (2, 1)       5              2                   172.17.0.2       
+5                   (1, 2)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+6                   (2, 0)       
+2                   (0, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 4, 2
+Communication Time (seconds) : 0.000005
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 5
+Logged time :                      18/10/2023 02:22:27      
+Alert Reported time :              18/10/2023 02:22:27      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+6                   (2, 0)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+3                   (1, 0)       5              2                   172.17.0.2       
+7                   (2, 1)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+0                   (0, 0)       
+4                   (1, 1)       
+8                   (2, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 0, 4
+Communication Time (seconds) : 0.000011
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 6
+Logged time :                      18/10/2023 02:22:32      
+Alert Reported time :              18/10/2023 02:22:32      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+5                   (1, 2)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+2                   (0, 2)       5              2                   172.17.0.2       
+8                   (2, 2)       5              2                   172.17.0.2       
+4                   (1, 1)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+1                   (0, 1)       
+7                   (2, 1)       
+3                   (1, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 1, 7, 3
+Communication Time (seconds) : 0.000021
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 7
+Logged time :                      18/10/2023 02:22:37      
+Alert Reported time :              18/10/2023 02:22:37      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+8                   (2, 2)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+5                   (1, 2)       5              2                   172.17.0.2       
+7                   (2, 1)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+2                   (0, 2)       
+4                   (1, 1)       
+6                   (2, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 2, 4, 6
+Communication Time (seconds) : 0.000002
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 9
+Logged time :                      18/10/2023 02:22:47      
+Alert Reported time :              18/10/2023 02:22:47      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              0                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              1                   172.17.0.2       
+3                   (1, 0)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+2                   (0, 2)       
+6                   (2, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 6, 4
+Communication Time (seconds) : 0.000086
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 9
+Logged time :                      18/10/2023 02:22:47      
+Alert Reported time :              18/10/2023 02:22:47      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              0                   172.17.0.2       
+4                   (1, 1)       5              2                   172.17.0.2       
+2                   (0, 2)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+3                   (1, 0)       
+7                   (2, 1)       
+5                   (1, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 7, 3, 5
+Communication Time (seconds) : 0.000003
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 10
+Logged time :                      18/10/2023 02:22:52      
+Alert Reported time :              18/10/2023 02:22:52      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+6                   (2, 0)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+3                   (1, 0)       5              2                   172.17.0.2       
+7                   (2, 1)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+0                   (0, 0)       
+4                   (1, 1)       
+8                   (2, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.000008
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 10
+Logged time :                      18/10/2023 02:22:52      
+Alert Reported time :              18/10/2023 02:22:52      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              0                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+3                   (1, 0)       5              2                   172.17.0.2       
+1                   (0, 1)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+6                   (2, 0)       
+4                   (1, 1)       
+2                   (0, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 4, 2
+Communication Time (seconds) : 0.000019
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 10
+Logged time :                      18/10/2023 02:22:52      
+Alert Reported time :              18/10/2023 02:22:52      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+3                   (1, 0)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              0                   172.17.0.2       
+6                   (2, 0)       5              1                   172.17.0.2       
+4                   (1, 1)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+1                   (0, 1)       
+7                   (2, 1)       
+5                   (1, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 1, 5
+Communication Time (seconds) : 0.000022
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 10
+Logged time :                      18/10/2023 02:22:52      
+Alert Reported time :              18/10/2023 02:22:52      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+7                   (2, 1)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+6                   (2, 0)       5              1                   172.17.0.2       
+8                   (2, 2)       5              1                   172.17.0.2       
+4                   (1, 1)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+3                   (1, 0)       
+5                   (1, 2)       
+1                   (0, 1)       
+
+Available station nearby (no report received in last 0.5 seconds): 5, 1
+Communication Time (seconds) : 0.000001
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 13
+Logged time :                      18/10/2023 02:23:07      
+Alert Reported time :              18/10/2023 02:23:07      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+2                   (0, 2)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+5                   (1, 2)       5              1                   172.17.0.2       
+1                   (0, 1)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+8                   (2, 2)       
+4                   (1, 1)       
+0                   (0, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 8, 4, 0
+Communication Time (seconds) : 0.000003
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 14
+Logged time :                      18/10/2023 02:23:12      
+Alert Reported time :              18/10/2023 02:23:12      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+3                   (1, 0)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+4                   (1, 1)       5              2                   172.17.0.2       
+0                   (0, 0)       5              0                   172.17.0.2       
+6                   (2, 0)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+1                   (0, 1)       
+7                   (2, 1)       
+5                   (1, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 1, 7, 5
+Communication Time (seconds) : 0.000000
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 14
+Logged time :                      18/10/2023 02:23:12      
+Alert Reported time :              18/10/2023 02:23:12      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              0                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+3                   (1, 0)       5              1                   172.17.0.2       
+1                   (0, 1)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+6                   (2, 0)       
+4                   (1, 1)       
+2                   (0, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 4, 2
+Communication Time (seconds) : 0.000003
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 16
+Logged time :                      18/10/2023 02:23:22      
+Alert Reported time :              18/10/2023 02:23:22      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+6                   (2, 0)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+3                   (1, 0)       5              1                   172.17.0.2       
+7                   (2, 1)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+0                   (0, 0)       
+4                   (1, 1)       
+8                   (2, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 0, 4, 8
+Communication Time (seconds) : 0.000001
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 17
+Logged time :                      18/10/2023 02:23:27      
+Alert Reported time :              18/10/2023 02:23:27      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+3                   (1, 0)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+6                   (2, 0)       5              2                   172.17.0.2       
+4                   (1, 1)       5              2                   172.17.0.2       
+0                   (0, 0)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+7                   (2, 1)       
+1                   (0, 1)       
+5                   (1, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 7, 5
+Communication Time (seconds) : 0.000003
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 17
+Logged time :                      18/10/2023 02:23:27      
+Alert Reported time :              18/10/2023 02:23:27      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+2                   (0, 2)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+5                   (1, 2)       5              1                   172.17.0.2       
+1                   (0, 1)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+8                   (2, 2)       
+4                   (1, 1)       
+0                   (0, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 8, 4
+Communication Time (seconds) : 0.000005
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 17
+Logged time :                      18/10/2023 02:23:27      
+Alert Reported time :              18/10/2023 02:23:27      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+3                   (1, 0)       5              2                   172.17.0.2       
+1                   (0, 1)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+6                   (2, 0)       
+4                   (1, 1)       
+2                   (0, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.000002
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 17
+Logged time :                      18/10/2023 02:23:27      
+Alert Reported time :              18/10/2023 02:23:27      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              1                   172.17.0.2       
+4                   (1, 1)       5              2                   172.17.0.2       
+2                   (0, 2)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+3                   (1, 0)       
+7                   (2, 1)       
+5                   (1, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 7, 5
+Communication Time (seconds) : 0.000005
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 18
+Logged time :                      18/10/2023 02:23:32      
+Alert Reported time :              18/10/2023 02:23:32      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+4                   (1, 1)       5              1                   172.17.0.2       
+2                   (0, 2)       5              1                   172.17.0.2       
+0                   (0, 0)       5              0                   172.17.0.2       
+
+Nearby Nodes        Coord        
+7                   (2, 1)       
+3                   (1, 0)       
+5                   (1, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 7, 3
+Communication Time (seconds) : 0.000069
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 18
+Logged time :                      18/10/2023 02:23:32      
+Alert Reported time :              18/10/2023 02:23:32      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+2                   (0, 2)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              2                   172.17.0.2       
+5                   (1, 2)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+0                   (0, 0)       
+8                   (2, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.001948
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 18
+Logged time :                      18/10/2023 02:23:32      
+Alert Reported time :              18/10/2023 02:23:32      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+5                   (1, 2)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+8                   (2, 2)       5              2                   172.17.0.2       
+4                   (1, 1)       5              1                   172.17.0.2       
+2                   (0, 2)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+7                   (2, 1)       
+1                   (0, 1)       
+3                   (1, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 3
+Communication Time (seconds) : 0.001071
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 18
+Logged time :                      18/10/2023 02:23:32      
+Alert Reported time :              18/10/2023 02:23:32      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+7                   (2, 1)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+4                   (1, 1)       5              1                   172.17.0.2       
+6                   (2, 0)       5              1                   172.17.0.2       
+8                   (2, 2)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+1                   (0, 1)       
+3                   (1, 0)       
+5                   (1, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 3
+Communication Time (seconds) : 0.000006
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 18
+Logged time :                      18/10/2023 02:23:32      
+Alert Reported time :              18/10/2023 02:23:32      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+8                   (2, 2)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+5                   (1, 2)       5              2                   172.17.0.2       
+7                   (2, 1)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+2                   (0, 2)       
+4                   (1, 1)       
+6                   (2, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.001951
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 19
+Logged time :                      18/10/2023 02:23:37      
+Alert Reported time :              18/10/2023 02:23:37      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+8                   (2, 2)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+5                   (1, 2)       5              2                   172.17.0.2       
+7                   (2, 1)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+2                   (0, 2)       
+4                   (1, 1)       
+6                   (2, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 2, 4, 6
+Communication Time (seconds) : 0.000001
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 21
+Logged time :                      18/10/2023 02:23:47      
+Alert Reported time :              18/10/2023 02:23:47      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+3                   (1, 0)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+6                   (2, 0)       5              2                   172.17.0.2       
+4                   (1, 1)       5              2                   172.17.0.2       
+0                   (0, 0)       5              0                   172.17.0.2       
+
+Nearby Nodes        Coord        
+7                   (2, 1)       
+1                   (0, 1)       
+5                   (1, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 7
+Communication Time (seconds) : 0.000002
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 21
+Logged time :                      18/10/2023 02:23:47      
+Alert Reported time :              18/10/2023 02:23:47      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              0                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              2                   172.17.0.2       
+3                   (1, 0)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+2                   (0, 2)       
+6                   (2, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.000002
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 21
+Logged time :                      18/10/2023 02:23:47      
+Alert Reported time :              18/10/2023 02:23:47      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+2                   (0, 2)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              2                   172.17.0.2       
+5                   (1, 2)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+0                   (0, 0)       
+8                   (2, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.000005
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 21
+Logged time :                      18/10/2023 02:23:47      
+Alert Reported time :              18/10/2023 02:23:47      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              0                   172.17.0.2       
+4                   (1, 1)       5              2                   172.17.0.2       
+2                   (0, 2)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+3                   (1, 0)       
+7                   (2, 1)       
+5                   (1, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 7
+Communication Time (seconds) : 0.000001
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 21
+Logged time :                      18/10/2023 02:23:47      
+Alert Reported time :              18/10/2023 02:23:47      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+5                   (1, 2)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+4                   (1, 1)       5              2                   172.17.0.2       
+2                   (0, 2)       5              2                   172.17.0.2       
+8                   (2, 2)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+1                   (0, 1)       
+7                   (2, 1)       
+3                   (1, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 7
+Communication Time (seconds) : 0.000002
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 23
+Logged time :                      18/10/2023 02:23:57      
+Alert Reported time :              18/10/2023 02:23:57      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+6                   (2, 0)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+7                   (2, 1)       5              2                   172.17.0.2       
+3                   (1, 0)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+8                   (2, 2)       
+0                   (0, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 4, 8
+Communication Time (seconds) : 0.000001
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 23
+Logged time :                      18/10/2023 02:23:57      
+Alert Reported time :              18/10/2023 02:23:57      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              0                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              2                   172.17.0.2       
+3                   (1, 0)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+2                   (0, 2)       
+6                   (2, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 4, 2
+Communication Time (seconds) : 0.000002
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 25
+Logged time :                      18/10/2023 02:24:07      
+Alert Reported time :              18/10/2023 02:24:07      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+2                   (0, 2)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              1                   172.17.0.2       
+5                   (1, 2)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+0                   (0, 0)       
+8                   (2, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.000003
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 25
+Logged time :                      18/10/2023 02:24:07      
+Alert Reported time :              18/10/2023 02:24:07      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+5                   (1, 2)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+8                   (2, 2)       5              0                   172.17.0.2       
+4                   (1, 1)       5              0                   172.17.0.2       
+2                   (0, 2)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+7                   (2, 1)       
+1                   (0, 1)       
+3                   (1, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 7
+Communication Time (seconds) : 0.000001
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 25
+Logged time :                      18/10/2023 02:24:07      
+Alert Reported time :              18/10/2023 02:24:07      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+3                   (1, 0)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              0                   172.17.0.2       
+6                   (2, 0)       5              1                   172.17.0.2       
+4                   (1, 1)       5              0                   172.17.0.2       
+
+Nearby Nodes        Coord        
+1                   (0, 1)       
+7                   (2, 1)       
+5                   (1, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 7
+Communication Time (seconds) : 0.000003
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 25
+Logged time :                      18/10/2023 02:24:07      
+Alert Reported time :              18/10/2023 02:24:07      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              0                   172.17.0.2       
+4                   (1, 1)       5              0                   172.17.0.2       
+2                   (0, 2)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+3                   (1, 0)       
+7                   (2, 1)       
+5                   (1, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 7
+Communication Time (seconds) : 0.000001
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 25
+Logged time :                      18/10/2023 02:24:07      
+Alert Reported time :              18/10/2023 02:24:07      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              0                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              1                   172.17.0.2       
+3                   (1, 0)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+2                   (0, 2)       
+6                   (2, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.000003
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 27
+Logged time :                      18/10/2023 02:24:17      
+Alert Reported time :              18/10/2023 02:24:17      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+7                   (2, 1)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+6                   (2, 0)       5              1                   172.17.0.2       
+8                   (2, 2)       5              0                   172.17.0.2       
+4                   (1, 1)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+3                   (1, 0)       
+5                   (1, 2)       
+1                   (0, 1)       
+
+Available station nearby (no report received in last 0.5 seconds): 1
+Communication Time (seconds) : 0.000003
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 27
+Logged time :                      18/10/2023 02:24:17      
+Alert Reported time :              18/10/2023 02:24:17      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+6                   (2, 0)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+3                   (1, 0)       5              2                   172.17.0.2       
+7                   (2, 1)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+0                   (0, 0)       
+4                   (1, 1)       
+8                   (2, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.000005
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 27
+Logged time :                      18/10/2023 02:24:17      
+Alert Reported time :              18/10/2023 02:24:17      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+3                   (1, 0)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              0                   172.17.0.2       
+6                   (2, 0)       5              1                   172.17.0.2       
+4                   (1, 1)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+1                   (0, 1)       
+7                   (2, 1)       
+5                   (1, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): 1
+Communication Time (seconds) : 0.000006
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 27
+Logged time :                      18/10/2023 02:24:17      
+Alert Reported time :              18/10/2023 02:24:17      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+8                   (2, 2)       5              0                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+7                   (2, 1)       5              2                   172.17.0.2       
+5                   (1, 2)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+6                   (2, 0)       
+2                   (0, 2)       
+
+Available station nearby (no report received in last 0.5 seconds): None
+Communication Time (seconds) : 0.000004
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 27
+Logged time :                      18/10/2023 02:24:17      
+Alert Reported time :              18/10/2023 02:24:17      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+5                   (1, 2)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+2                   (0, 2)       5              1                   172.17.0.2       
+8                   (2, 2)       5              0                   172.17.0.2       
+4                   (1, 1)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+1                   (0, 1)       
+7                   (2, 1)       
+3                   (1, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 1
+Communication Time (seconds) : 0.000001
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 28
+Logged time :                      18/10/2023 02:24:22      
+Alert Reported time :              18/10/2023 02:24:22      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+0                   (0, 0)       5              0                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+1                   (0, 1)       5              2                   172.17.0.2       
+3                   (1, 0)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+2                   (0, 2)       
+6                   (2, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 4, 2
+Communication Time (seconds) : 0.000005
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 28
+Logged time :                      18/10/2023 02:24:22      
+Alert Reported time :              18/10/2023 02:24:22      
+Number of adjacent node: 2
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+6                   (2, 0)       5              2                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+7                   (2, 1)       5              2                   172.17.0.2       
+3                   (1, 0)       5              2                   172.17.0.2       
+
+Nearby Nodes        Coord        
+4                   (1, 1)       
+8                   (2, 2)       
+0                   (0, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 4, 8
+Communication Time (seconds) : 0.000003
+Total Messages send between reporting node and base station: 2
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Iteration: 29
+Logged time :                      18/10/2023 02:24:27      
+Alert Reported time :              18/10/2023 02:24:27      
+Number of adjacent node: 3
+Number of nearby node: 3
+Availability to be considered full: 2
+
+Reporting Node      Coord        Total Port     Available Port      IPv4             
+5                   (1, 2)       5              1                   172.17.0.2       
+
+Adjacent Nodes      Coord        Total Port     Available Port      IPv4             
+2                   (0, 2)       5              2                   172.17.0.2       
+4                   (1, 1)       5              1                   172.17.0.2       
+8                   (2, 2)       5              1                   172.17.0.2       
+
+Nearby Nodes        Coord        
+1                   (0, 1)       
+7                   (2, 1)       
+3                   (1, 0)       
+
+Available station nearby (no report received in last 0.5 seconds): 1, 7, 3
+Communication Time (seconds) : 0.000003
+Total Messages send between reporting node and base station: 2
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+===============================================================================================================================
+
+SIMULATION SUMMARY
+
+Simulation Start Timestamp:      18/10/2023 02:22:02 
+Simulation End Timestamp:        18/10/2023 02:24:32 
+Simulation Duration (seconds):   150.031569          
+Total Iteration:                 30                  
+Number of Alert Detected:        63                  
+Total Number of Messages:        438                 
+Total communication time:        0.040638            
+
+===============================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
