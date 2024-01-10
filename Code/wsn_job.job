@@ -1,0 +1,24 @@
+#!/bin/bash 
+#SBATCH --job-name=wsn_job ### name your job 
+#SBATCH --time=00:10:00		 ### hh:mm:ss or dd-hh:mm:ss
+#SBATCH --mem=16G				 ### memory setting is max @ 2 GB per core
+#SBATCH --ntasks=10				 ### launch 26 mpi processes
+#SBATCH --cpus-per-task=7		 ### 5 threads processes
+#SBATCH --ntasks-per-node=2   ### four per node
+#SBATCH --output=wsn.%j.out
+#SBATCH --partition=defq
+
+
+if [ ! -f wsn ]
+then
+    mpicc wsn.c -o wsn
+else
+ if [ wsn.c -nt wsn ]
+ then
+    mpicc wsn.c -o wsn
+ fi
+fi
+
+srun wsn 3 3 5 7
+
+exit 0
